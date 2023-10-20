@@ -1,2 +1,1 @@
-# tracks
-Genomic tracks for molecular diagnostics at UCLA Health
+Mostly BED files for in-house custom panels and for kitted panels from vendors.
